@@ -1,0 +1,101 @@
+body {
+    margin: 0vw;
+    padding: 0vw;
+}
+
+.B-1 {
+    width: 100%;
+    height: 67,5vw;
+    float: left;
+}
+
+.Main-part {
+    width: 100%;
+    height: 9.375vw;
+    float: left;
+    background-color: #0039a6;
+}
+
+.A-3 {
+
+}
+
+.Image-4 {
+    width: 19.5vw;
+    height: 8.75vw;
+    margin-top: 0.250vw;
+    float: left;
+}
+
+.A-5 {
+    margin-left: 3.50vw;
+    margin-top: -0.1vw;
+    float: left;
+    text-decoration: none;
+}
+
+.W-6 {
+    font-size: 3.125vw;
+    color: white;
+}
+
+.A-7 {
+    margin-left: 3.50vw;
+    margin-top: -0.1vw;
+    float: left;
+    text-decoration: none;
+}
+
+.W-8 {
+    font-size: 3.125vw;
+    color: white;
+}
+
+.A-9 {
+    margin-left: 3.50vw;
+    margin-top: -0.1vw;
+    float: left;
+    text-decoration: none;
+}
+
+.W-10 {
+    font-size: 3.125vw;
+    color: white;
+}
+
+.A-11 {
+    margin-left: 3.50vw;
+    margin-top: -0.1vw;
+    float: left;
+    text-decoration: none;
+}
+
+.W-12 {
+    font-size: 3.125vw;
+    color: white;
+}
+
+.Se-13 {
+    width: 100%;
+    height: 58.125vw;
+}
+
+.A-14 {}
+
+.Img-15 {
+    width: 25vw;
+    height: 23.0625vw;
+    margin-left: 13.4375vw;
+    margin-top: 2.125vw;
+    float: left;
+}
+
+.A-16 {}
+
+.Img-17 {
+    width: 17.3125vw;
+    height: 21.4375vw;
+    margin-left: -21.5vw;
+    margin-top: 26vw; 
+    float: left;
+}
