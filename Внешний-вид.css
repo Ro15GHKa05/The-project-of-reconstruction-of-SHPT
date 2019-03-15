@@ -21,8 +21,8 @@ body {
 }
 
 .Image-4 {
-    width: 19.5vw;
-    height: 8.75vw;
+    width: 18.5vw;
+    height: 7.75vw;
     margin-top: 0.250vw;
     float: left;
 }
@@ -83,7 +83,7 @@ body {
 .A-14 {}
 
 .Img-15 {
-    width: 25vw;
+    width: 29vw;
     height: 23.0625vw;
     margin-left: 13.4375vw;
     margin-top: 2.125vw;
@@ -93,9 +93,16 @@ body {
 .A-16 {}
 
 .Img-17 {
-    width: 17.3125vw;
+    width: 16.3125vw;
     height: 21.4375vw;
     margin-left: -21.5vw;
     margin-top: 26vw; 
     float: left;
+}
+
+.Greeting-18 {
+    float: left;
+    font-size: 3.25vw;
+    white-space: pre;
+    color: #a2260b;
 }
